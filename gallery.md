@@ -56,7 +56,7 @@ For a gallery page, suggested use includes a full-width image followed by text c
 ### Customization
 To customize, include internal CSS rules with the `<style>` tag, somewhere on the page, ideally in its own, clearly identified HTML content block.  
 
-The main target for customization is the block background color.
+The main target for customization is the block background color, but you could just as easily change text color, size, etc.
 ```
 <style>  
     .dg-gallery-item {  

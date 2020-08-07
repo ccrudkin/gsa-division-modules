@@ -28,7 +28,7 @@ The most basic form of the template is a simple series of nested containers with
 ```  
 All blocks in a row will stretch to the same height, and the footer is pushed down to align with the bottom of the gallery item.  
 
-For a gallery page, suggested use includes a full-width image followed by text copy in the main content area:  
+For a gallery page, suggested use includes a full-width image followed by text copy in the main content area. For visual consistency all photos should be cropped to the exact same dimensions, and the text copy should be approximately the same length for each item.  
 ```
 <!-- TEMPLATE WITH LINKED IMAGE -->  
 <div class="dg-gallery-container">  
